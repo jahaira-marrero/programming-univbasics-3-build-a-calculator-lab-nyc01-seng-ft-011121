@@ -25,5 +25,5 @@ end
 
 def square_root(num)
   root = num**
-  root 
+  return root 
 end
